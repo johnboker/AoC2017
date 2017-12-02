@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Folder Include="input\" />
+    <Folder Include="Solutions\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="input\Day01.1.txt">
